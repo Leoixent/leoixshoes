@@ -1,2 +1,2 @@
-# leoixshoes
-A web based application for designing ordering and delivery of leatherworks.
+# leoixshoes.com
+A web based website application for creating self customised shoes, designing ordering and delivery of leatherworks.
